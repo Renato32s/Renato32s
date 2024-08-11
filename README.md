@@ -3,7 +3,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=Olá%2C+Meu+nome+é+Renato+Santos!;Tenho+28+anos;Estou+estudando+CiberSegurança;Sou+Desenvolvedor+Web)
 <h1/>
 <br>
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/renato-32p-santos/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato32s&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato32s&layout=compact&theme=dark">
