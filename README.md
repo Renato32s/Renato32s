@@ -11,7 +11,7 @@
   
 
 <h3 style="display: inline_block">
-- 🌐 Trabalho com desenvolvimento Web
+- 🌐 Desenvolvimento Web
   <br>
 - 🛡️ Estudando CiberSegurança
   <br>
