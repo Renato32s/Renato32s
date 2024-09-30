@@ -13,7 +13,7 @@
 <h3 style="display: inline_block">
 - 🌐 Desenvolvedor Web
   <br>
-- 🛡️ Estudando CiberSegurança
+- 📚 Estudando sobre Java/AWS cloud
   <br>
 - 🎮 Adoro jogar/jogos indies
   <br>
